@@ -1,0 +1,10 @@
+# Cloudflare / wrangler local state (contains account info)
+.wrangler/
+.dev.vars
+.env
+.env.*
+node_modules/
+# Original agent export, superseded by public/index.html
+*.zip
+*.log
+.DS_Store
